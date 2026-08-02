@@ -14,11 +14,8 @@ class Solution {
         if (head == null || left == right)
             return head;
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-
-        ListNode temp = dummy;
-        int c = 0;
+        int c = 1;
+        ListNode temp = head;
 
         ListNode prev = null;
         ListNode l = null;
@@ -32,28 +29,33 @@ class Solution {
             if (c == left)
                 l = temp;
 
-            if (c == right)
+            if (c == right) {
                 r = temp;
+                break;
+            }
 
             temp = temp.next;
             c++;
         }
 
-        ListNode afterRight = r.next;
+        ListNode after = r.next;
 
         ListNode curr = l;
         ListNode next = null;
-        ListNode pre = afterRight;
+        ListNode pre = after;
 
-        while (curr != afterRight) {
+        while (curr != after) {
             next = curr.next;
             curr.next = pre;
             pre = curr;
             curr = next;
         }
 
-        prev.next = pre;
+        if (prev != null)
+            prev.next = pre;
+        else
+            head = pre;
 
-        return dummy.next;
+        return head;
     }
 }
