@@ -28,4 +28,12 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
