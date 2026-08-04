@@ -35,6 +35,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MayurSrivastav/DSA/tree/master/0009-palindrome-number) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
