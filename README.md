@@ -23,6 +23,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/MayurSrivastav/DSA/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MayurSrivastav/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Linked List
@@ -39,6 +40,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MayurSrivastav/DSA/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -52,6 +54,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -78,4 +81,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
