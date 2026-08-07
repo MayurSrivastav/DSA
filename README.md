@@ -7,6 +7,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MayurSrivastav/DSA/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0228-summary-ranges](https://github.com/MayurSrivastav/DSA/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/MayurSrivastav/DSA/tree/master/0260-single-number-iii) |
@@ -25,6 +26,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/MayurSrivastav/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/MayurSrivastav/DSA/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MayurSrivastav/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -87,4 +89,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
