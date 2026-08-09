@@ -9,6 +9,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0001-two-sum](https://github.com/MayurSrivastav/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MayurSrivastav/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/MayurSrivastav/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/MayurSrivastav/DSA/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0228-summary-ranges](https://github.com/MayurSrivastav/DSA/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
@@ -103,4 +104,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/MayurSrivastav/DSA/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0624-maximum-distance-in-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/MayurSrivastav/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
