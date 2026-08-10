@@ -11,6 +11,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0031-next-permutation](https://github.com/MayurSrivastav/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/MayurSrivastav/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/MayurSrivastav/DSA/tree/master/0228-summary-ranges) |
@@ -27,6 +28,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/MayurSrivastav/DSA/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -117,6 +119,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
