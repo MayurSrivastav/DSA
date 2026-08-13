@@ -19,6 +19,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/MayurSrivastav/DSA/tree/master/0260-single-number-iii) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -28,6 +29,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0001-two-sum](https://github.com/MayurSrivastav/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
@@ -140,6 +142,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
 ## Union-Find
 |  |
 | ------- |
