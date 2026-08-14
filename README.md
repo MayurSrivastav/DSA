@@ -21,6 +21,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/MayurSrivastav/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -96,6 +97,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
+| [0713-subarray-product-less-than-k](https://github.com/MayurSrivastav/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
 ## Monotonic Queue
 |  |
@@ -124,6 +126,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0035-search-insert-position](https://github.com/MayurSrivastav/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/MayurSrivastav/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +146,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0209-minimum-size-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
+| [0713-subarray-product-less-than-k](https://github.com/MayurSrivastav/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Union-Find
 |  |
 | ------- |
