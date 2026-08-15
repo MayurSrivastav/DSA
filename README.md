@@ -67,6 +67,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0009-palindrome-number](https://github.com/MayurSrivastav/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -137,6 +138,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -168,4 +170,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
