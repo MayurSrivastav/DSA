@@ -11,6 +11,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0011-container-with-most-water](https://github.com/MayurSrivastav/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/MayurSrivastav/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/MayurSrivastav/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/MayurSrivastav/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
@@ -121,6 +122,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/MayurSrivastav/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayurSrivastav/DSA/tree/master/0090-subsets-ii) |
 ## Greedy
