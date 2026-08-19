@@ -9,6 +9,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0001-two-sum](https://github.com/MayurSrivastav/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/MayurSrivastav/DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/MayurSrivastav/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/MayurSrivastav/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/MayurSrivastav/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/MayurSrivastav/DSA/tree/master/0039-combination-sum) |
@@ -64,6 +65,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayurSrivastav/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MayurSrivastav/DSA/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/MayurSrivastav/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/MayurSrivastav/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
@@ -177,6 +179,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/MayurSrivastav/DSA/tree/master/0016-3sum-closest) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
