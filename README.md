@@ -37,6 +37,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MayurSrivastav/DSA/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
@@ -110,6 +111,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/MayurSrivastav/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -128,6 +130,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0005-longest-palindromic-substring](https://github.com/MayurSrivastav/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Backtracking
 |  |
