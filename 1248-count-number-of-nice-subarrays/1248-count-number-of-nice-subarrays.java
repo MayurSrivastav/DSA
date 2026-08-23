@@ -1,28 +1,25 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        return find(nums, k) - find(nums, k - 1);
-    }
 
-    public int find(int[] nums, int k) {
-        int i = 0;
-        int j = 0;
-        int odd = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        map.put(0, 1);
+
+        int prefix = 0;
         int count = 0;
 
-        while (j < nums.length) {
-
-            if (nums[j] % 2 != 0) {
-                odd++;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] % 2 != 0) {
+                prefix++;
             }
 
-            while (odd > k) {
-                if (nums[i] % 2 != 0) {
-                    odd--;
-                }
-                i++;
+            int need = prefix - k;
+
+            if (map.containsKey(need)) {
+                count += map.get(need);
             }
-            count += j - i + 1;
-            j++;
+
+            map.put(prefix, map.getOrDefault(prefix, 0) + 1);
         }
         return count;
     }
