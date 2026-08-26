@@ -79,6 +79,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MayurSrivastav/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -99,6 +100,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
