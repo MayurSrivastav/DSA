@@ -24,6 +24,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0209-minimum-size-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/MayurSrivastav/DSA/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/MayurSrivastav/DSA/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/MayurSrivastav/DSA/tree/master/0260-single-number-iii) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -47,6 +48,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayurSrivastav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
@@ -228,10 +230,12 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0016-3sum-closest](https://github.com/MayurSrivastav/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
+| [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MayurSrivastav/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Memoization
@@ -246,4 +250,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/0022-generate-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
