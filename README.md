@@ -255,4 +255,20 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
