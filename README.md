@@ -19,6 +19,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayurSrivastav/DSA/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/MayurSrivastav/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -67,6 +68,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/MayurSrivastav/DSA/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -261,6 +263,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -276,5 +279,10 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
