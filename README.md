@@ -28,6 +28,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/MayurSrivastav/DSA/tree/master/0260-single-number-iii) |
+| [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurSrivastav/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -238,6 +239,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0016-3sum-closest](https://github.com/MayurSrivastav/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
