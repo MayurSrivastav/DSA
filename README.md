@@ -50,6 +50,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayurSrivastav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MayurSrivastav/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/MayurSrivastav/DSA/tree/master/0290-word-pattern) |
@@ -98,6 +99,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/MayurSrivastav/DSA/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -106,6 +108,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0009-palindrome-number](https://github.com/MayurSrivastav/DSA/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -289,4 +292,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
