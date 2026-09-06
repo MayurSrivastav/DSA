@@ -212,6 +212,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -272,12 +273,14 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
