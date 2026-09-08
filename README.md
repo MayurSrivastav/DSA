@@ -42,6 +42,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MayurSrivastav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0992-subarrays-with-k-different-integers](https://github.com/MayurSrivastav/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MayurSrivastav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -249,6 +251,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MayurSrivastav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
 |  |
 | ------- |
