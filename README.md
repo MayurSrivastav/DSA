@@ -286,6 +286,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
@@ -296,12 +297,14 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
@@ -313,6 +316,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
