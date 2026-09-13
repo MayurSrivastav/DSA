@@ -7,9 +7,12 @@ class Solution {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
         int level = 0;
-
+        int size=0;
         while (!queue.isEmpty()) {
-            int size = queue.size();
+            if(size==0){
+                level++;
+            }
+            size = queue.size();
 
             while (size > 0) {
                 TreeNode node = queue.poll();
@@ -23,8 +26,6 @@ class Solution {
                     queue.offer(node.right);
                 }
             }
-
-            level++;
         }
 
         return level;
