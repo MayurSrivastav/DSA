@@ -1,29 +1,26 @@
 class Solution {
+
     public int diameterOfBinaryTree(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
 
-        int max = 0;
+        int maxi[] = new int[1]; 
 
-        int a = maxDepth(root.left);
-        int b = maxDepth(root.right);
+        findHeight(root, maxi);
 
-        max = a + b;
-
-        int left = diameterOfBinaryTree(root.left);
-        int right = diameterOfBinaryTree(root.right);
-
-        max = Math.max(max, left);
-        max = Math.max(max, right);
-
-        return max;
+        return maxi[0];
     }
 
-    public int maxDepth(TreeNode root) {
+    public int findHeight(TreeNode root, int maxi[]) {
+
         if (root == null) {
             return 0;
         }
-        return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
+
+        int leftHeight = findHeight(root.left, maxi);
+
+        int rightHeight = findHeight(root.right, maxi);
+
+        maxi[0] = Math.max(maxi[0], leftHeight + rightHeight);
+
+        return 1 + Math.max(leftHeight, rightHeight);
     }
 }
