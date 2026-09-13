@@ -288,6 +288,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Depth-First Search
 |  |
@@ -298,6 +299,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
@@ -317,6 +319,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -325,4 +328,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
