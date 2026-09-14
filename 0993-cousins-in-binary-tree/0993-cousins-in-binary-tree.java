@@ -47,9 +47,7 @@ class Solution {
             if (childCount == 2) {
                 return true;
             }
-            if (childCount == 1) {
-                return false;
-            }
+            
         }
         return false;
     }
