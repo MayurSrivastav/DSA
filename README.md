@@ -288,6 +288,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -302,6 +303,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -325,6 +327,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
@@ -339,4 +342,12 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
