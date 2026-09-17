@@ -84,6 +84,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0090-subsets-ii](https://github.com/MayurSrivastav/DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/MayurSrivastav/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/MayurSrivastav/DSA/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MayurSrivastav/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
@@ -217,6 +218,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MayurSrivastav/DSA/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
