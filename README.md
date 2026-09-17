@@ -35,6 +35,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/MayurSrivastav/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/MayurSrivastav/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/MayurSrivastav/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MayurSrivastav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -219,6 +220,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MayurSrivastav/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
+| [0746-min-cost-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
