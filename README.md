@@ -91,6 +91,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MayurSrivastav/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MayurSrivastav/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -101,6 +102,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0005-longest-palindromic-substring](https://github.com/MayurSrivastav/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MayurSrivastav/DSA/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/MayurSrivastav/DSA/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MayurSrivastav/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/MayurSrivastav/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
