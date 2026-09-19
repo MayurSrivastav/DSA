@@ -81,6 +81,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MayurSrivastav/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayurSrivastav/DSA/tree/master/0090-subsets-ii) |
@@ -116,6 +117,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0007-reverse-integer](https://github.com/MayurSrivastav/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MayurSrivastav/DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/MayurSrivastav/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
