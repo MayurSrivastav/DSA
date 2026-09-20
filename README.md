@@ -189,6 +189,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MayurSrivastav/DSA/tree/master/0567-permutation-in-string) |
+| [1668-maximum-repeating-substring](https://github.com/MayurSrivastav/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0213-house-robber-ii](https://github.com/MayurSrivastav/DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1668-maximum-repeating-substring](https://github.com/MayurSrivastav/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -385,4 +387,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/MayurSrivastav/DSA/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
