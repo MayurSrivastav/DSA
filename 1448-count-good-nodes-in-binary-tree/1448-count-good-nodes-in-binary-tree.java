@@ -15,14 +15,11 @@
  */
 class Solution {
     public int goodNodes(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-
-        return solve(root, root.val);
+        return solve(root, Integer.MIN_VALUE);
     }
 
     public int solve(TreeNode root, int max) {
+
         if (root == null) {
             return 0;
         }
@@ -34,9 +31,9 @@ class Solution {
             max = root.val;
         }
 
-        int a = solve(root.left, max);
-        int b = solve(root.right, max);
+        int left = solve(root.left, max);
+        int right = solve(root.right, max);
 
-        return count + a + b;
+        return count + left + right;
     }
 }
