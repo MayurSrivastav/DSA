@@ -315,6 +315,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -345,6 +347,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -365,6 +368,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
