@@ -15,47 +15,49 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+
         List<List<Integer>> res = new ArrayList<>();
-        if(root==null){
+
+        if (root == null) {
             return res;
         }
+
         Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
-        int level=0;
-        while(!queue.isEmpty()){
+        queue.offer(root);
+
+        int level = 0;
+
+        while (!queue.isEmpty()) {
+
             int size = queue.size();
-            List<Integer> list = new ArrayList<>();
-            Stack<Integer> stack = new Stack<>();
-            while(size>0){
-                if(level%2==0){
-                    TreeNode node = queue.poll();
-                    if(node.left!= null){
-                        queue.offer(node.left);
-                    }
-                    if(node.right!= null){
-                        queue.offer(node.right);
-                    }
-                    list.add(node.val);
-                }else{
-                    TreeNode node = queue.poll();
-                    if(node.left!= null){
-                        queue.offer(node.left);
-                    }
-                    if(node.right!= null){
-                        queue.offer(node.right);
-                    }
-                    stack.push(node.val);
+
+            List<Integer> levelSubList = new LinkedList<>();
+
+            while (size > 0) {
+
+                TreeNode node = queue.poll();
+
+                if (level % 2 != 0) {
+                    levelSubList.addFirst(node.val);
+                } else {
+                    levelSubList.add(node.val);
                 }
+
+                if (node.left != null) {
+                    queue.offer(node.left);
+                }
+
+                if (node.right != null) {
+                    queue.offer(node.right);
+                }
+
                 size--;
-                if(level%2!=0 && size==0){
-                    while(!stack.isEmpty()){
-                        list.add(stack.pop());
-                    }
-                }
             }
-            res.add(list);
+
+            res.add(levelSubList);
             level++;
         }
+
         return res;
     }
 }
