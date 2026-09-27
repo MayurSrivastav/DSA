@@ -191,6 +191,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MayurSrivastav/DSA/tree/master/0567-permutation-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/MayurSrivastav/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Backtracking
 |  |
@@ -240,6 +241,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayurSrivastav/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
