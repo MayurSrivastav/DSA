@@ -94,6 +94,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayurSrivastav/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MayurSrivastav/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -130,6 +131,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
