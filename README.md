@@ -29,6 +29,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/MayurSrivastav/DSA/tree/master/0260-single-number-iii) |
+| [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
@@ -232,6 +233,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MayurSrivastav/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MayurSrivastav/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -375,6 +377,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayurSrivastav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -461,4 +464,12 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MayurSrivastav/DSA/tree/master/0572-subtree-of-another-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
