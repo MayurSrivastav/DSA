@@ -267,6 +267,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MayurSrivastav/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -366,6 +367,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MayurSrivastav/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -384,6 +386,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MayurSrivastav/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -472,4 +475,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/MayurSrivastav/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
