@@ -138,6 +138,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
+| [2285-maximum-total-importance-of-roads](https://github.com/MayurSrivastav/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -216,6 +217,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0011-container-with-most-water](https://github.com/MayurSrivastav/DSA/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [2285-maximum-total-importance-of-roads](https://github.com/MayurSrivastav/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Binary Search
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0977-squares-of-a-sorted-array](https://github.com/MayurSrivastav/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MayurSrivastav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2285-maximum-total-importance-of-roads](https://github.com/MayurSrivastav/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Counting Sort
 |  |
 | ------- |
@@ -480,4 +483,5 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/MayurSrivastav/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MayurSrivastav/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/MayurSrivastav/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
