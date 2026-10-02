@@ -95,6 +95,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MayurSrivastav/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayurSrivastav/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
@@ -126,6 +127,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MayurSrivastav/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MayurSrivastav/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MayurSrivastav/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/MayurSrivastav/DSA/tree/master/0029-divide-two-integers) |
@@ -139,6 +141,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MayurSrivastav/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
