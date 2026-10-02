@@ -100,6 +100,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MayurSrivastav/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -115,6 +116,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/MayurSrivastav/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayurSrivastav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -136,6 +138,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -251,6 +254,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayurSrivastav/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
