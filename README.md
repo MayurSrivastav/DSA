@@ -55,6 +55,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayurSrivastav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MayurSrivastav/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
@@ -98,6 +99,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0021-merge-two-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MayurSrivastav/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -110,6 +112,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0031-next-permutation](https://github.com/MayurSrivastav/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -437,6 +440,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 ## DP on Trees
 |  |
