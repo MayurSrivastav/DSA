@@ -101,6 +101,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0061-rotate-list](https://github.com/MayurSrivastav/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MayurSrivastav/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -258,6 +259,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayurSrivastav/DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -338,6 +340,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MayurSrivastav/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayurSrivastav/DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -369,6 +372,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MayurSrivastav/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0226-invert-binary-tree) |
@@ -419,6 +423,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MayurSrivastav/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MayurSrivastav/DSA/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayurSrivastav/DSA/tree/master/0173-binary-search-tree-iterator) |
