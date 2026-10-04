@@ -213,6 +213,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MayurSrivastav/DSA/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/MayurSrivastav/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Backtracking
@@ -257,6 +258,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1668-maximum-repeating-substring](https://github.com/MayurSrivastav/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Stack
@@ -519,4 +521,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [1791-find-center-of-star-graph](https://github.com/MayurSrivastav/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MayurSrivastav/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MayurSrivastav/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
