@@ -1,35 +1,18 @@
 class Solution {
     public int rob(int[] nums) {
-        int n= nums.length;
+        int n =nums.length;
         if(n==1){
             return nums[0];
         }
-        int [] num1=new int[n-1];
-        int [] num2=new int[n-1];
-        int j=0,k=0;
-        for(int i=0;i<n;i++){
-            if(i!=0){
-                num1[j]=nums[i];
-                j++;
-            }
-            if(i!=n-1){
-                num2[k]=nums[i];
-                k++;
-            }
-        }
-        return Math.max(rob1(num1),rob1(num2));
+        return Math.max(find (n,nums,0,n-1),find(n,nums,1,n));
     }
-    public int rob1(int [] nums){
-        int n= nums.length;
-        if(n==1){
-            return nums[0];
-        }
-        int prev1=nums[0];
+    public int find(int n,int[]nums,int x,int y){
+        int prev1= nums[x];
         int prev2=0;
-        int ans=0;
-        for(int i=2;i<n+1;i++){
-            int Pick = nums[i-1]+prev2;
-            int notPick = 0+prev1;
+        int ans=nums[x];
+        for(int i=x+1;i<y;i++){
+            int Pick = nums[i]+prev2;
+            int notPick = prev1;
             ans=Math.max(Pick,notPick);
             prev2=prev1;
             prev1=ans;
