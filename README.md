@@ -212,6 +212,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0290-word-pattern](https://github.com/MayurSrivastav/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/MayurSrivastav/DSA/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -257,6 +258,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
