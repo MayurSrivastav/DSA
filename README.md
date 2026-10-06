@@ -82,6 +82,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -104,6 +105,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0002-add-two-numbers](https://github.com/MayurSrivastav/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayurSrivastav/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/MayurSrivastav/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MayurSrivastav/DSA/tree/master/0092-reverse-linked-list-ii) |
@@ -161,6 +163,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/MayurSrivastav/DSA/tree/master/0239-sliding-window-maximum) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MayurSrivastav/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -544,4 +547,12 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
