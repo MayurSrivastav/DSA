@@ -115,6 +115,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MayurSrivastav/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -131,6 +132,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0061-rotate-list](https://github.com/MayurSrivastav/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
@@ -162,6 +164,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0021-merge-two-sorted-lists](https://github.com/MayurSrivastav/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/MayurSrivastav/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayurSrivastav/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
@@ -286,6 +289,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/MayurSrivastav/DSA/tree/master/0173-binary-search-tree-iterator) |
