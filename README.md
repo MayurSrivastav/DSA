@@ -50,6 +50,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MayurSrivastav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MayurSrivastav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -569,4 +570,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MayurSrivastav/DSA/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MayurSrivastav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
