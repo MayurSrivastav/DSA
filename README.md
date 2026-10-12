@@ -149,6 +149,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0007-reverse-integer](https://github.com/MayurSrivastav/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MayurSrivastav/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/MayurSrivastav/DSA/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/MayurSrivastav/DSA/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/MayurSrivastav/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
@@ -179,6 +180,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MayurSrivastav/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -222,6 +224,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0005-longest-palindromic-substring](https://github.com/MayurSrivastav/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayurSrivastav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/MayurSrivastav/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0151-reverse-words-in-a-string) |
