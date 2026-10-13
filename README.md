@@ -17,6 +17,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0046-permutations](https://github.com/MayurSrivastav/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayurSrivastav/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -275,6 +276,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MayurSrivastav/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MayurSrivastav/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MayurSrivastav/DSA/tree/master/0213-house-robber-ii) |
@@ -577,4 +579,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MayurSrivastav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
