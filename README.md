@@ -170,6 +170,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/MayurSrivastav/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -286,6 +287,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0894-all-possible-full-binary-trees](https://github.com/MayurSrivastav/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1143-longest-common-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1668-maximum-repeating-substring](https://github.com/MayurSrivastav/DSA/tree/master/1668-maximum-repeating-substring) |
@@ -351,6 +353,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/MayurSrivastav/DSA/tree/master/0894-all-possible-full-binary-trees) |
 ## Manacher
 |  |
 | ------- |
@@ -398,6 +401,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0572-subtree-of-another-tree](https://github.com/MayurSrivastav/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayurSrivastav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/MayurSrivastav/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -485,6 +489,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0572-subtree-of-another-tree](https://github.com/MayurSrivastav/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayurSrivastav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/MayurSrivastav/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
