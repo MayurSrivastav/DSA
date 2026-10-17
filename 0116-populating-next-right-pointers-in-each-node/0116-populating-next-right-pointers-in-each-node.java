@@ -1,29 +1,52 @@
+/*
+// Definition for a Node.
+class Node {
+    public int val;
+    public Node left;
+    public Node right;
+    public Node next;
+
+    public Node() {}
+    
+    public Node(int _val) {
+        val = _val;
+    }
+
+    public Node(int _val, Node _left, Node _right, Node _next) {
+        val = _val;
+        left = _left;
+        right = _right;
+        next = _next;
+    }
+};
+*/
+
 class Solution {
     public Node connect(Node root) {
-        if (root == null) {
+        if(root==null){
             return root;
         }
-        Queue<Node> queue = new LinkedList<>();
-        queue.add(root);
-        Node prev = null;
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            while (size > 0) {
-                Node newNode = queue.poll();
-                if (newNode.left != null) {
-                    queue.offer(newNode.left);
+        Queue <Node> queue = new LinkedList<>();
+        queue.offer(root);
+        int size = queue.size();
+        while(!queue.isEmpty()){
+            size = queue.size();
+            while(size>0){
+                Node node = queue.poll();
+                if(node.left!=null){
+                    queue.offer(node.left);
                 }
-                if (newNode.right != null) {
-                    queue.offer(newNode.right);
+                if(node.right!=null){
+                    queue.offer(node.right);
                 }
-                if (prev != null) {
-                    prev.next = newNode;
+                if(size > 1){
+                    node.next = queue.peek();
                 }
-                prev = newNode;
+                else{
+                    node.next = null;
+                }
                 size--;
             }
-            prev.next = null;
-            prev = null;
         }
         return root;
     }
