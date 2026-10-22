@@ -62,6 +62,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/MayurSrivastav/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MayurSrivastav/DSA/tree/master/0205-isomorphic-strings) |
@@ -118,6 +119,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/MayurSrivastav/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/MayurSrivastav/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/MayurSrivastav/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
