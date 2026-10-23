@@ -17,6 +17,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0046-permutations](https://github.com/MayurSrivastav/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayurSrivastav/DSA/tree/master/0090-subsets-ii) |
@@ -348,6 +349,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0016-3sum-closest](https://github.com/MayurSrivastav/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
@@ -623,4 +625,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
