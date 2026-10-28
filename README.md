@@ -163,6 +163,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/MayurSrivastav/DSA/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -192,6 +193,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0043-multiply-strings](https://github.com/MayurSrivastav/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/MayurSrivastav/DSA/tree/master/0258-add-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -629,4 +631,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MayurSrivastav/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
