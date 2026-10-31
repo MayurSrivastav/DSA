@@ -127,6 +127,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0138-copy-list-with-random-pointer](https://github.com/MayurSrivastav/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -178,6 +179,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0024-swap-nodes-in-pairs](https://github.com/MayurSrivastav/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MayurSrivastav/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/MayurSrivastav/DSA/tree/master/0894-all-possible-full-binary-trees) |
