@@ -73,6 +73,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0219-contains-duplicate-ii](https://github.com/MayurSrivastav/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/MayurSrivastav/DSA/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/MayurSrivastav/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
@@ -107,6 +108,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0191-number-of-1-bits](https://github.com/MayurSrivastav/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/MayurSrivastav/DSA/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/MayurSrivastav/DSA/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MayurSrivastav/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
@@ -250,6 +252,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0257-binary-tree-paths](https://github.com/MayurSrivastav/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/MayurSrivastav/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/MayurSrivastav/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/MayurSrivastav/DSA/tree/master/0567-permutation-in-string) |
@@ -357,6 +360,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/MayurSrivastav/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurSrivastav/DSA/tree/master/0977-squares-of-a-sorted-array) |
