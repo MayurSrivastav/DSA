@@ -38,6 +38,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0300-longest-increasing-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MayurSrivastav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/MayurSrivastav/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurSrivastav/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +169,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MayurSrivastav/DSA/tree/master/0258-add-digits) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MayurSrivastav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -362,6 +364,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/MayurSrivastav/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MayurSrivastav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/MayurSrivastav/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
