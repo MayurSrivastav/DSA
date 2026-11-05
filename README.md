@@ -57,6 +57,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MayurSrivastav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MayurSrivastav/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MayurSrivastav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -371,6 +372,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0977-squares-of-a-sorted-array](https://github.com/MayurSrivastav/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MayurSrivastav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MayurSrivastav/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2285-maximum-total-importance-of-roads](https://github.com/MayurSrivastav/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Counting Sort
 |  |
@@ -378,6 +380,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MayurSrivastav/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MayurSrivastav/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Memoization
 |  |
 | ------- |
