@@ -16,6 +16,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MayurSrivastav/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/MayurSrivastav/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
@@ -68,6 +69,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/MayurSrivastav/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MayurSrivastav/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MayurSrivastav/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/MayurSrivastav/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurSrivastav/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -258,6 +260,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0022-generate-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/MayurSrivastav/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/MayurSrivastav/DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/MayurSrivastav/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/MayurSrivastav/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -371,6 +374,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0016-3sum-closest](https://github.com/MayurSrivastav/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/MayurSrivastav/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/MayurSrivastav/DSA/tree/master/0389-find-the-difference) |
