@@ -61,6 +61,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/MayurSrivastav/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2747-count-zero-request-servers](https://github.com/MayurSrivastav/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MayurSrivastav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MayurSrivastav/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
