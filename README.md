@@ -62,6 +62,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [2747-count-zero-request-servers](https://github.com/MayurSrivastav/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MayurSrivastav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MayurSrivastav/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -244,6 +245,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/MayurSrivastav/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2747-count-zero-request-servers](https://github.com/MayurSrivastav/DSA/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -361,6 +363,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0974-subarray-sums-divisible-by-k](https://github.com/MayurSrivastav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
