@@ -55,6 +55,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0992-subarrays-with-k-different-integers](https://github.com/MayurSrivastav/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/MayurSrivastav/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayurSrivastav/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1652-defuse-the-bomb](https://github.com/MayurSrivastav/DSA/tree/master/1652-defuse-the-bomb) |
@@ -365,6 +366,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0930-binary-subarrays-with-sum](https://github.com/MayurSrivastav/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MayurSrivastav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/MayurSrivastav/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayurSrivastav/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [3364-minimum-positive-sum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/3364-minimum-positive-sum-subarray) |
