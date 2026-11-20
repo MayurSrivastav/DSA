@@ -99,6 +99,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0974-subarray-sums-divisible-by-k](https://github.com/MayurSrivastav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MayurSrivastav/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MayurSrivastav/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2747-count-zero-request-servers](https://github.com/MayurSrivastav/DSA/tree/master/2747-count-zero-request-servers) |
@@ -473,6 +474,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MayurSrivastav/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -507,6 +509,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayurSrivastav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MayurSrivastav/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MayurSrivastav/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -531,6 +534,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayurSrivastav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MayurSrivastav/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/MayurSrivastav/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -575,6 +579,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MayurSrivastav/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -602,17 +607,20 @@ Java solutions to Data Structures &amp; Algorithm problems
 | ------- |
 | [0337-house-robber-iii](https://github.com/MayurSrivastav/DSA/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MayurSrivastav/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MayurSrivastav/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MayurSrivastav/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MayurSrivastav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/MayurSrivastav/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
 | ------- |
