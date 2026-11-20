@@ -168,6 +168,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0151-reverse-words-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MayurSrivastav/DSA/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/MayurSrivastav/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/MayurSrivastav/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MayurSrivastav/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -278,6 +279,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0205-isomorphic-strings](https://github.com/MayurSrivastav/DSA/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/MayurSrivastav/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/MayurSrivastav/DSA/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/MayurSrivastav/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/MayurSrivastav/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurSrivastav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
