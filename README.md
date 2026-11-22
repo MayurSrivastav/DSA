@@ -288,6 +288,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [1143-longest-common-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/MayurSrivastav/DSA/tree/master/1668-maximum-repeating-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MayurSrivastav/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Backtracking
 |  |
 | ------- |
