@@ -58,6 +58,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0992-subarrays-with-k-different-integers](https://github.com/MayurSrivastav/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/MayurSrivastav/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayurSrivastav/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
@@ -193,6 +194,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0523-continuous-subarray-sum](https://github.com/MayurSrivastav/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MayurSrivastav/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayurSrivastav/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
@@ -376,6 +378,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0930-binary-subarrays-with-sum](https://github.com/MayurSrivastav/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MayurSrivastav/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MayurSrivastav/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/MayurSrivastav/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayurSrivastav/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/MayurSrivastav/DSA/tree/master/1590-make-sum-divisible-by-p) |
@@ -633,6 +636,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MayurSrivastav/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -691,4 +695,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MayurSrivastav/DSA/tree/master/0258-add-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
