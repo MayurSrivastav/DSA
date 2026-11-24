@@ -21,6 +21,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/MayurSrivastav/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MayurSrivastav/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayurSrivastav/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MayurSrivastav/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -163,6 +164,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0031-next-permutation](https://github.com/MayurSrivastav/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/MayurSrivastav/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/MayurSrivastav/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/MayurSrivastav/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/MayurSrivastav/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MayurSrivastav/DSA/tree/master/0143-reorder-list) |
@@ -399,6 +401,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MayurSrivastav/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/MayurSrivastav/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/MayurSrivastav/DSA/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/MayurSrivastav/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MayurSrivastav/DSA/tree/master/0414-third-maximum-number) |
@@ -691,6 +694,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/MayurSrivastav/DSA/tree/master/0075-sort-colors) |
 ## Number Theory
 |  |
 | ------- |
@@ -699,4 +703,8 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MayurSrivastav/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
