@@ -190,6 +190,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/MayurSrivastav/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MayurSrivastav/DSA/tree/master/0258-add-digits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MayurSrivastav/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MayurSrivastav/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MayurSrivastav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
@@ -307,6 +308,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0113-path-sum-ii](https://github.com/MayurSrivastav/DSA/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/MayurSrivastav/DSA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/MayurSrivastav/DSA/tree/master/0257-binary-tree-paths) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MayurSrivastav/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -342,6 +344,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0322-coin-change](https://github.com/MayurSrivastav/DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/MayurSrivastav/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/MayurSrivastav/DSA/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/MayurSrivastav/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/MayurSrivastav/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/MayurSrivastav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0746-min-cost-climbing-stairs) |
