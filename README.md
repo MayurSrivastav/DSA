@@ -200,6 +200,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [1352-product-of-the-last-k-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MayurSrivastav/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/MayurSrivastav/DSA/tree/master/1922-count-good-numbers) |
+| [3360-stone-removal-game](https://github.com/MayurSrivastav/DSA/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0043-multiply-strings](https://github.com/MayurSrivastav/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/MayurSrivastav/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MayurSrivastav/DSA/tree/master/0258-add-digits) |
+| [3360-stone-removal-game](https://github.com/MayurSrivastav/DSA/tree/master/3360-stone-removal-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/MayurSrivastav/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
