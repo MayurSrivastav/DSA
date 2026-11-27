@@ -19,6 +19,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0047-permutations-ii](https://github.com/MayurSrivastav/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MayurSrivastav/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/MayurSrivastav/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MayurSrivastav/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/MayurSrivastav/DSA/tree/master/0075-sort-colors) |
@@ -315,6 +316,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MayurSrivastav/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/MayurSrivastav/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MayurSrivastav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/MayurSrivastav/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/MayurSrivastav/DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -335,6 +337,7 @@ Java solutions to Data Structures &amp; Algorithm problems
 | [0022-generate-parentheses](https://github.com/MayurSrivastav/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MayurSrivastav/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MayurSrivastav/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/MayurSrivastav/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MayurSrivastav/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MayurSrivastav/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MayurSrivastav/DSA/tree/master/0070-climbing-stairs) |
